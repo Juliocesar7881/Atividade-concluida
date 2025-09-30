@@ -1,0 +1,5 @@
+/gitea/
+/runner/
+/postgres/
+.env
+.docker-compose.override.yml
